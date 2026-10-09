@@ -1,0 +1,1 @@
+# MindScore-AI--Mental-Health-Score-Predictor
